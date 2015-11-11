@@ -56,9 +56,7 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var URL = "https://raw.githubusercontent.com/facebook/react-native/master/docs/MoviesExample.json";
-
-	_reactDom2.default.render(React.createElement(_MovieList2.default, { urlData: URL }), document.getElementById('content'));
+	_reactDom2.default.render(React.createElement(_MovieList2.default, null), document.getElementById('content'));
 
 /***/ },
 /* 1 */
