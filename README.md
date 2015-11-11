@@ -13,12 +13,12 @@ git clone git@github.com:liaosong/react-es6-flux-demo.git
 
 ```
 
-1. install dependencies
+2. install dependencies
 ```
 npm install
 ```
 
-1. run
+3. run
 ```
 webpack
 ```
